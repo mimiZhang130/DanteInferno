@@ -1,0 +1,53 @@
+{
+    "title": "Inferno 1",
+    "summary":[
+        {
+            "image": "/images/inferno1/scene1.jpg",
+            "text": "Dante awakens and finds himself lost in a dark foggy forest. He is very frightened."
+        },
+        {
+            "image": "/images/inferno1/scene2.jpg",
+            "text": "When he attempts to leave, he is confronted by three beasts: a spotted leapord, a hungry lion, and a she-wolf."
+        },
+        {
+            "image": "/images/inferno1/scene3.jpg",
+            "text": "Defeated, he turns back and meets Virgil. Virgil tells him he is sent by Beatrice to guide Dante through Hell and Purgatory."
+        }
+    ],
+    "supplementary":[
+        {
+            "image": "/images/inferno1/virgil.jpg",
+            "text": {
+                "name": "VIRGIL",
+                "desc": "He is a Roman poet best known for the Aeneid. The Aeneid glorifies Rome, and the main character Aeneas is a dutiful brave hero who embodied the ideal Roman. One of Virgil’s works wrote of a messiah which was later regarded as prophetic of Christianity. In the Divine Comedy, Virgil is Dante's guide through Hell and Purgatory."
+            }
+        }
+    ],
+    "analysis": [
+        {
+            "title": "THE WOODS",
+            "text": "The Divine Comedy begins with Dante waking up in a dark woods, lost. The dark woods are a representation of human sin; he is trapped away from God because of his own transgressions. The first two tercets set the tone with a deep rooted horror and fear present in Dante the pilgrim. He describes himself as roused having been “so full of sleep” on line 11. In many interpretations, this line refers to Dante’s soul that was asleep; Dante lost reason and consequently forgot his faith in God (Cassata, 14). As Dante nears the edge of the woods, a soft ray of light shines upon a hill before him. It calms the deep rooted fear and panic he has felt so far, representing God’s grace. "
+        },
+        {
+            "title": "THE ANIMALS",
+            "text": "There are three animals that appear to block Dante’s way to the hill: the spotted leopard, the hungry lion, and the she-wolf. By most interpretations now, these animals are thought to represent different human sins: the leopard is lust, the lion is pride, and the she-wolf is greed (Cassata, 10). This again further reinforces that Dante is separated from God due to human sin – he is blocked from God’s grace (the light on the hill). With the presence of the beasts, Dante the pilgrim has no choice but to go on his journey and reconnect with God. Dante the poet, however, does not have the same obligations. As someone who was highly involved in politics, he is showing that faith is so easily corrupted by politics and other aspects of human life; Dante the poet uses Dante the pilgrim to reconnect with God. "
+        },
+        {
+            "title": "THE SECOND MESSIAH",
+            "text": "It is also hinted in this canto that there will be a second coming of the messiah. Dante the poet took issue with how the government and the church were run (especially due to corruption) eventually leading to his exile. In line 106, after meeting Virgil, he is told that the she-wolf will be slain by someone who “shall be the salvation of low-lying Italy”. The she-wolf, as said above, represents Greed. Dante the poet is trying to prophesize into reality a strong leader who will remove the corruption he believes is destroying Italy. "
+        },
+        {
+            "title": "VIRGIL IN HELL",
+            "text": "Virgil is Dante’s guide through Hell and Purgatory. He is introduced as someone who will guide Dante because Dante cannot leave the forest due to the three beasts. Dante the poet is making it clear to readers that Virgil is not only the guide to Dante the pilgrim but is also his mentor in his own work. Inferno, Purgatorio, and Paradiso are essentially epics describing Dante’s spiritual journey back home (to God) just like the Aeneid is an epic following the hero Aeneid finding a new home. Another detail to note is that even though Dante the poet admires Virgil, Virgil is still in Hell. In line 125, Virgil says that God “wills not [my entry to Heaven], because I was a rebel to His law”: Virgil will only guide Dante through Hell and Purgatory. It becomes clear as we continue on Dante’s journey why Virgil is in Hell and how those in Hell are punished."
+        }
+    ],
+    "sources":[
+        {
+            "text": "Cassata, Letterio. ”The Hard Begin”."
+        },
+        {
+            "text": "Williams, Robert Deryck. ”Virgil”. Encyclopedia Britannica, 12 Feb. 2025, https://www.britannica.com/biography/Virgil. Accessed 10 March 2025."
+        }
+    ],
+    "next_canto": "inferno-3"
+}

@@ -1,0 +1,262 @@
+:root {
+  font-family: fantasy;
+  line-height: 1.5;
+  font-weight: 500;
+
+  color: white;
+  background-color: black;
+  color-scheme: light dark;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: white;
+}
+
+.center-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: calc(100vh - 100px); 
+}
+
+.inferno {
+  background-image: linear-gradient(black, darkred);
+  animation: flash 5s infinite steps(1);
+  width: 100vw;
+  margin: 0;
+  overflow: hidden;
+}
+
+.inferno h1{
+  font-size: 8vw;
+  text-align: center;
+}
+
+.white-hollow-button{
+  font-family: fantasy;
+  background-color: transparent; 
+  border: 1px solid white;
+  font-size: 2.5rem;
+  /* margin: 0rem 30rem; */
+  width: 30%;
+  color: white;
+}
+
+.canto{
+  background-image: radial-gradient(darkred, black);
+  width: 100vw;
+}
+
+.canto h1{
+  font-size: 5rem;
+  text-align: center;
+  margin: 0;
+  padding-top: 3rem;
+}
+
+.canto h2{
+  font-size: 3rem;
+  text-align: center;
+  margin: 0;
+}
+
+.canto h3{
+  font-size: 2rem;
+  margin: 0;
+}
+
+.scene-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: auto;
+}
+
+.scene{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 1rem 3rem;
+  width: 20rem;
+}
+
+.scene img{
+  height: 20rem;
+  border: black 3px solid;
+}
+
+.scene p{
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.card {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 1rem 2rem;
+  width: 23%;
+  background-image: linear-gradient(darkgray, black);
+  border: black 3px solid;
+}
+
+.card img{
+  /* width: 15rem; */
+  height: 14rem;
+  border: black 1px solid;
+  border-radius: 15px;
+  margin: 1rem;
+}
+
+.card p{
+  margin: 0rem 1rem 1rem;
+}
+
+.analysis-container{
+  margin-top: 1rem;
+  width: 90%;
+  justify-self: center;
+}
+
+.analysis-container p{
+  width: 70%;
+  font-size: 1.3rem;
+}
+
+.left-analysis-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.right-analysis-container{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.right-analysis-container p{
+  text-align: right;
+}
+
+.sources-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sources-container div{
+  width: 85%;
+}
+
+.sources-container h4{
+  font-size: 1.5rem;
+  text-align: center;
+  margin: .5rem;
+}
+
+.navbar{
+  top: 0;
+  width: 98%;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar a{
+  margin: 1rem;
+}
+
+.map-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.map-header{
+  font-size: 4rem;
+  text-align: center;
+}
+
+.map-container button {
+  font-family: fantasy;
+  display: inline-flex;
+  position: relative;
+  background-color: transparent; 
+  border: 1px solid white;
+  border-radius: 12px;
+  font-size: 1.5rem;
+  padding: 1rem;
+  margin: 2rem;
+  color: white;
+}
+
+.map-container button:hover {
+  color: darkred;
+  border: 1px solid darkred;
+  transition: 0.5s;
+}
+
+@media (max-width: 1200px) {
+  .card{
+    width: 30%;
+  }
+}
+
+@media (max-width: 800px) {
+  .scene-container{
+    flex-direction: column;
+    align-items: center;
+  }
+  .card{
+    width: 50%;
+  }
+  .canto h2{
+    font-size: 2.5rem;
+  }
+  .canto h3{
+    font-size: 2rem;
+  }
+  .analysis-container{
+    font-size: 1rem;
+  }
+  .left-analysis-container{
+    align-items: center;
+  }
+  .right-analysis-container{
+    align-items: center;
+  }
+  .right-analysis-container p{
+    text-align: center;
+  }
+  .white-hollow-button{
+    width: 40%;
+    color: white;
+  }
+}
+
+@media (max-width: 500px){
+  .card{
+    width: 95%;
+  }
+  .white-hollow-button{
+    width: 70%;
+    color: white;
+    font-size: 1.4rem;
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Inferno 3",
+    "summary":[
+        {
+            "image": "/images/inferno3/scene1.jpg",
+            "text": "An arch with ominous inscriptions greet Dante and Virgil at the entrance of Hell. Inside, they can hear screams and wailing. Dante begins to weep as well."
+        },
+        {
+            "image": "/images/inferno3/scene2.jpg",
+            "text": "After entering Hell, they encounter sinners running around chasing a banner. Wasps and stinging flies make their faces stream with blood and, at their feet, are worms. Dante recognizes one of the souls, and knowing the soul’s crime, stops pitying the sinners."
+        },
+        {
+            "image": "/images/inferno3/scene3.jpg",
+            "text": "At the shore, they see Charon the demon ferrying sinners across the river. Charon refuses to take Dante at first. Virgil tells Dante this is because Charon takes sinners to be punished. Before Dante crosses the river, he faints."
+        }
+    ],
+    "supplementary":[
+        {
+            "image": "/images/inferno3/charon.jpg",
+            "text": {
+                "name": "CHARON",
+                "desc": "Charon is a character in Greek Mythology whose job is to ferry people across the river Acheron and enter the underworld. In this case, Dante places him at the entrance of Hell as a demon who ferries sinners to their punishment in Hell."
+            }
+        },
+        {
+            "image": "/images/inferno3/celestine.jpg",
+            "text": {
+                "name":"POPE CELESTINE V",
+                "desc":"He was the predecessor to Pope Boniface VIII who was Dante’s enemy. The Pope became pope at 80 and, while a very spiritual man, was not proficient at administrative work. He led the church to become dependent on King Charles II of Naples and resigned leaving the papal throne to Pope Boniface VIII."
+            }
+        }
+    ],
+    "analysis": [
+        {
+            "title": "POLITICS",
+            "text": "The sinners at the shore of Hell are punished for being unable to pick sides when they were alive. In line 60, Dante recognizes (who many interpretations believe to be) Pope Celestine V as one of these sinners: the man “who, through cowardice, made the great refusal.” The pope’s abdication to Boniface is seen as “cowardice”, and Dante sees his lack of action during his papal term as giving way to corruption within the Church. We will see especially as we continue on the journey that politics plays a very large role in how Dante views the spiritual and physical world. "
+        },
+        {
+            "title": "THE CONTRAPASSO",
+            "text": "The punishment assigned to the sinners is often a portrayal of divine retribution. For the sinners who could not pick a side in life, they are damned to running around chasing a meaningless banner around representing their inability to stay with one side. The flies and wasps that sting at/stimulate their bodies because in life they lacked the inner stimulation inside to fight for their causes. Their punishment reflects their indecision and lack of moral commitment in life. "
+        },
+        {
+            "title": "MYTH vs. FAITH",
+            "text": "Charon, the ferryman, is a character from Greek mythology who guides souls into the underworld. He did not exist in the Bible, and yet Dante the Poet uses him at the entrance of Hell. He even plays a somewhat similar role where he is ferrying sinners to their punishment in Hell. By integrating pagan characters, Dante the poet is able to connect with those reading the text more. He wrote the book in Florentine rather than Latin to give the less educated in Florence a way to connect with the Bible. In using characters from myths, he is able to ground his christian spiritual journey in common cultural references. "
+        },
+        {
+            "title": "DANTE FAINTING",
+            "text": "Dante the pilgrim fainting serves three purposes. First, it reminds readers that he is a living human in need of guidance. He is too mentally weak to fully grasp divine retribution which is overwhelming suffering. As a human, he is also more relatable to the readers as someone who is not numb to the horrors he will experience. Second, it helps us establish character growth. At the start of Hell, the sights and sounds of the sinners suffering is enough to overwhelm him both with horror and pity. By the end of Inferno, we will see that Dante has grown in dealing with what he sees and understanding divine retribution. Third, by fainting, Dante the poet does not have to deal with details like how he got across the river. Just like the whitespace transition between his decision to enter Hell and his actual entry to Hell, there is a whitespace transition in between standing on the shore of the river Acheron and entering the first circle of Hell. "
+        }
+    ],
+    "sources":[
+        {
+            "text": "The Editors of Encyclopaedia Britannica. ”Charon”. Encyclopedia Britannica, 7 Jan. 2025, https://www.britannica.com/topic/Charon-Greek-mythology. Accessed 10 March 2025."
+        },
+        {
+            "text": "The Editors of Encyclopaedia Britannica. ”Saint Celestine V”. Encyclopedia Britannica, 1 Jan. 2025, https://www.britannica.com/biography/Saint-Celestine-V. Accessed 10 March 2025."
+        }
+    ],
+    "next_canto": "purgatorio-1"
+}

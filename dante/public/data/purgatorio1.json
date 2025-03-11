@@ -1,0 +1,45 @@
+{
+    "title": "Purgatorio 1",
+    "summary":[
+        {
+            "image": "/images/purgatorio1/scene1.jpg",
+            "text": "Dante finishes his climb and reaches the surface of the earth and sees 4 stars. He prepares to enter Purgatory – where the soul is cleansed in preparation of Heaven."
+        },
+        {
+            "image": "/images/purgatorio1/scene2.jpg",
+            "text": "Dante and Virgil are stopped by Cato who questions why Virgil is not in Hell. Virgil explains that they are sent by Beatrice, and Cato orders Virgil to prepare Dante and clean him of Hell’s filth."
+        }
+    ],
+    "supplementary":[
+        {
+            "image": "/images/purgatorio1/cato.jpg",
+            "text": {
+                "name": "CATO",
+                "desc": "Cato was a Roman senator who tried to preserve the Roman Republic against Julius Caesar. He was an honest leader amid corruption and committed suicide when he was defeated. "
+            }
+        }
+    ],
+    "analysis": [
+        {
+            "title": "AN EPIC START",
+            "text": "Dante begins this canto similar to how Virgil and Homer began their epics. He invokes the muses to help elevate his poetry; specifically, he calls upon Calliope, the 9th and greatest (at poetry) muse. This continues highlighting how Dante weaves mythology with Christianity in telling the pilgrim’s journey. Dante also likens himself to a heroic man on a journey, calling upon powers beyond him to help him on his arduous task. "
+        },
+        {
+            "title": "FOUR STARS",
+            "text": "In Inferno, the opening canto has three beasts representing lust, pride, and greed that stop Dante from reaching God’s grace. In this canto, Dante leaves Hell and is greeted by a dawning sky and four stars in the southern hemisphere which represent “prudence, justice, courage, and temperance” which were present in humans before the fall (Raimondi, 3). There is a sense of peace and a step closer to God’s grace as Dante exits Hell and reaches Purgatory. However, the northern hemisphere where the stars cannot be seen is a reminder that, while Dante sees the stars in the southern hemisphere, the world is corrupted such that no one can retain these qualities in the same way before Adam’s betrayal of God. "
+        },
+        {
+            "title": "CATO IN PURGATORY",
+            "text": "Cato is an interesting case because he is a non-believer and committed suicide. Both of these traits traditionally would place him in Hell which Dante also agreed with. Virgil, whom Dante admires, is put in the first circle of Hell (Limbo). He also passed through another circle of Hell where those who committed suicide are punished. Cato, however, is in purgatory because Dante values his resistance to corruption. Despite threats and dangers, Cato stays true to his position and ultimately dies for his cause. This further demonstrates the value Dante places on politics. Cato staying true to his ideals and fighting for his cause is something Dante strives for. It is both similar to how Jesus died on the cross defending God and how Dante is exiled for being on the losing side. "
+        }
+    ],
+    "sources":[
+        {
+            "text": "Raimondi, Ezio. ”Ritual and Story”."
+        },
+        {
+            "text": "The Editors of Encyclopaedia Britannica. ”Marcus Porcius Cato”. Encyclopedia Britannica, 23 Jan. 2025, https://www.britannica.com/biography/Marcus-Porcius-Cato-Roman-senator-95-46-BCE. Accessed 10 March 2025."
+        }
+    ],
+    "next_canto": "paradiso-1"
+}

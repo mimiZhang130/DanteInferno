@@ -1,0 +1,40 @@
+{
+    "title": "Paradiso 1",
+    "summary":[
+        {
+            "image": "/images/paradiso1/scene1.jpg",
+            "text": "Dante invokes Apollo to aid his narration of the rest of the journey. Still in Earthly paradise, Virgil has vanished. Beatrice replaces him as Dante’s guide."
+        },
+        {
+            "image": "/images/paradiso1/scene2.jpg",
+            "text": "As they rise through the sky, Beatrice stares at the sun and Dante realizes he can too. The sky becomes much brighter. Fire and light surround him from outside and within."
+        },
+        {
+            "image": "/images/paradiso1/scene3.jpg",
+            "text": "Beatrice, noticing Dante’s confusion and amazement at their journey explains to him that naturally, without sin, humans would rise towards God. "
+        }
+    ],
+    "supplementary":[
+        {
+            "image": "/images/paradiso1/beatrice.jpg",
+            "text": {
+                "name": "BEATRICE",
+                "desc": "Beatrice is mentioned throughout the books as the one who sent Virgil to guide Dante; however, this is our first meeting with her. Beatrice is said to be Dante’s childhood love who died young. Her name means blessed one or bringer of joy."
+            }
+        }
+    ],
+    "analysis": [
+        {
+            "title": "APOLLO'S BLESSING",
+            "text": "Just like in Purgatorio, Dante starts Paradiso by invoking help from outside forces. This time, however, he calls upon Apollo saying: ‘Enter my breast and breathe in me / as when you drew out Marsyas, / out from the sheathing of his limbs’ (Paradiso 19-21). Marsyas is a satyr who was skinned alive by Apollo. By invoking one of the twelve olympians known for poetic skill as well as using such brutal imagery, he sets the tone for Paradiso; describing paradise is a daunting and arduous task that he must devote all of himself to. "
+        },
+        {
+            "title": "DIVINITY",
+            "text": "As he ascends through earthly paradise, he compares himself to Glaucus making yet another myth reference. This time, he is describing himself as becoming dehumanized and turning into an immortal as he rises. Like we were warned at the beginning of the canto, his descriptions of his journey to heaven are vague and unclear. In line 70, he says he cannot describe what he experiences in words. Instead, he tells the reader that there are new sounds and a sharpness, and he is filled with amazement and lightness as he rises. This all serves to remind readers that as humans, the divine are on a different plane of existence. There are many things that the human mind cannot comprehend, and we must accept that. "
+        },
+        {
+            "title": "THE NATURAL ORDER",
+            "text": "Beatrice’s speech takes up a good half of the canto. The speech can be split into three parts. First, she tells Dante about how humans are naturally drawn to good even though they have different impulses and destinations. However, she says, humans can still sin as a result of free will. It is human sin that then draws us away from God. Beatrice finally uses Dante as proof that humans are meant to be good and close to God because Dante moves upwards as he has been purified. This conflicts with other ideologies at the time and soon after that humans are natural sinners. Dante in this canto argues that humans may stray from the correct path but are not destined/made to do so. "
+        }
+    ]
+}
