@@ -7,6 +7,7 @@ const Map = ({cantos=[]}) => {
         <NavBar />
         <h1 className="map-header">MAP</h1>
         <div className="map-container">
+          <a href='/dante'><button>Background</button></a>
             {cantos.map((canto, index) => (
                 <a href={"/canto/" + canto.book + "-" + canto.number}><button key={index}>{canto.book.toUpperCase() + " - " + canto.number}</button></a>
             ))}

@@ -5,6 +5,7 @@ import React from "react";
 import Home from "./components/Home";
 import Canto from "./components/Canto";
 import Map from "./components/Map";
+import Dante from "./components/Dante";
 
 // data
 import cantos from "./assets/cantos.json";
@@ -18,6 +19,7 @@ function App() {
           <Route key={index} path={"/canto/" + canto.book + "-" + canto.number} element={<Canto info_path={canto.book + canto.number}/>}/>
         ))}
         <Route path="/map" element={<Map cantos={cantos}/>}/>
+        <Route path="/dante" element={<Dante />} />
       </Routes>
     </Router>
   )

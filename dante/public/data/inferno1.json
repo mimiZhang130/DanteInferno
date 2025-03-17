@@ -1,13 +1,14 @@
 {
     "title": "Inferno 1",
+    "music": "/music/inferno1.mp3",
     "summary":[
         {
             "image": "/images/inferno1/scene1.jpg",
-            "text": "Dante awakens and finds himself lost in a dark foggy forest. He is very frightened."
+            "text": "'Midway in the journey of our life / I came to myself in a dark wood, / for the straight way was lost' (Lines 1-3)"
         },
         {
             "image": "/images/inferno1/scene2.jpg",
-            "text": "When he attempts to leave, he is confronted by three beasts: a spotted leapord, a hungry lion, and a she-wolf."
+            "text": "He sees a light that \"leads men straight, no matter what their road\" and calms him down (Line 18). When he tries to leave, three beasts stop him: a spotted leapord, a hungry lion, and a she-wolf. He's scared again."
         },
         {
             "image": "/images/inferno1/scene3.jpg",
@@ -30,11 +31,11 @@
         },
         {
             "title": "THE ANIMALS",
-            "text": "There are three animals that appear to block Dante’s way to the hill: the spotted leopard, the hungry lion, and the she-wolf. By most interpretations now, these animals are thought to represent different human sins: the leopard is lust, the lion is pride, and the she-wolf is greed (Cassata, 10). This again further reinforces that Dante is separated from God due to human sin – he is blocked from God’s grace (the light on the hill). With the presence of the beasts, Dante the pilgrim has no choice but to go on his journey and reconnect with God. Dante the poet, however, does not have the same obligations. As someone who was highly involved in politics, he is showing that faith is so easily corrupted by politics and other aspects of human life; Dante the poet uses Dante the pilgrim to reconnect with God. "
+            "text": "There are three animals that appear to block Dante’s way to the hill: the spotted leopard, the hungry lion, and the she-wolf. By most interpretations now, these animals are thought to represent different human sins: the leopard is lust, the lion is pride, and the she-wolf is greed (Cassata, 10). This again further reinforces that Dante is separated from God due to human sin. At the end of this section, Dante says that “it drove me down to where the sun is silent “(Line 60). The sins bar him from receiving God’s grace (the light) and, with the presence of the beasts, Dante the pilgrim has no choice but to go on his journey and reconnect with God. Dante the poet, however, does not have the same obligations. As someone who was highly involved in politics, he is showing that faith is so easily corrupted by politics and other aspects of human life; Dante the poet uses Dante the pilgrim to reconnect with God. "
         },
         {
             "title": "THE SECOND MESSIAH",
-            "text": "It is also hinted in this canto that there will be a second coming of the messiah. Dante the poet took issue with how the government and the church were run (especially due to corruption) eventually leading to his exile. In line 106, after meeting Virgil, he is told that the she-wolf will be slain by someone who “shall be the salvation of low-lying Italy”. The she-wolf, as said above, represents Greed. Dante the poet is trying to prophesize into reality a strong leader who will remove the corruption he believes is destroying Italy. "
+            "text": "It is also hinted in this canto that there will be a second coming of the messiah. Dante the poet took issue with how the government and the church were run (especially due to corruption) eventually leading to his exile. In line 106, after meeting Virgil, he is told that the she-wolf will be slain by someone who “shall be the salvation of low-lying Italy”. The she-wolf, as said above, represents Greed. Dante the poet is trying to prophesize into reality a strong leader who will remove the corruption he believes is destroying Italy. This is also made clear by Virgil’s description of the “hound” who will kill the she-wolf as one who “shall not feed on lands or lucre / but on wisdom, love, and power” (Lines 103-104)."
         },
         {
             "title": "VIRGIL IN HELL",
@@ -43,7 +44,13 @@
     ],
     "sources":[
         {
-            "text": "Cassata, Letterio. ”The Hard Begin”."
+            "text": "Antonio Vivaldi, John Harrison with the Wichita State University Chamber Players. “Summer Mvt 3 Presto.” Free Music Archive, CC BY-NC."
+        },
+        {
+            "text": "“Inferno I.” Translated by Robert Hollander and Jean Hollander, Princeton University, The Trustees of Princeton University, dante.princeton.edu/. Accessed 16 Mar. 2025. "
+        },
+        {
+            "text": "Cassata, Letterio. “Canto I. the hard begin.” Translated by Charles Ross and Anthony Oldcorn. Lectura Dantis, Inferno, 31 Dec. 1998, pp. 9–24, https://doi.org/10.1525/9780520315808-002. Accessed 10 March 2025."
         },
         {
             "text": "Williams, Robert Deryck. ”Virgil”. Encyclopedia Britannica, 12 Feb. 2025, https://www.britannica.com/biography/Virgil. Accessed 10 March 2025."

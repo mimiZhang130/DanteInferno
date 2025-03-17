@@ -5,6 +5,7 @@ import Summary from './Canto/Summary';
 import Supplementals from './Canto/Supplementals';
 import Analysis from './Canto/Analysis';
 import NavBar from './NavBar';
+import Music from './Music';
 
 // summary, supplements, analysis
 const Canto = ({info_path}) => {
@@ -21,6 +22,7 @@ const Canto = ({info_path}) => {
         <div className="canto">
             <NavBar />
             <h1>{data.title}</h1>
+            <Music music_file={data.music} />
             <Summary summary_items={data.summary}></Summary>
             <Supplementals supplemental_items={data.supplementary}></Supplementals>
             <Analysis analysis_items={data.analysis}></Analysis>

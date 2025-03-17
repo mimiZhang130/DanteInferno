@@ -1,5 +1,6 @@
 {
     "title": "Paradiso 1",
+    "music": "/music/paradiso.mp3",
     "summary":[
         {
             "image": "/images/paradiso1/scene1.jpg",
@@ -26,15 +27,23 @@
     "analysis": [
         {
             "title": "APOLLO'S BLESSING",
-            "text": "Just like in Purgatorio, Dante starts Paradiso by invoking help from outside forces. This time, however, he calls upon Apollo saying: ‘Enter my breast and breathe in me / as when you drew out Marsyas, / out from the sheathing of his limbs’ (Paradiso 19-21). Marsyas is a satyr who was skinned alive by Apollo. By invoking one of the twelve olympians known for poetic skill as well as using such brutal imagery, he sets the tone for Paradiso; describing paradise is a daunting and arduous task that he must devote all of himself to. "
+            "text": "Just like in Purgatorio, Dante starts Paradiso by invoking help from outside forces. This time, however, he calls upon Apollo saying: \"Enter my breast and breathe in me / as when you drew out Marsyas, / out from the sheathing of his limbs\" (Paradiso 19-21). Marsyas is a satyr who was skinned alive by Apollo. By invoking one of the twelve olympians known for poetic skill as well as using such brutal imagery, he sets the tone for Paradiso; describing paradise is a daunting and arduous task that he must devote all of himself to. "
         },
         {
             "title": "DIVINITY",
-            "text": "As he ascends through earthly paradise, he compares himself to Glaucus making yet another myth reference. This time, he is describing himself as becoming dehumanized and turning into an immortal as he rises. Like we were warned at the beginning of the canto, his descriptions of his journey to heaven are vague and unclear. In line 70, he says he cannot describe what he experiences in words. Instead, he tells the reader that there are new sounds and a sharpness, and he is filled with amazement and lightness as he rises. This all serves to remind readers that as humans, the divine are on a different plane of existence. There are many things that the human mind cannot comprehend, and we must accept that. "
+            "text": "As he ascends through earthly paradise, he compares himself to Glaucus making yet another myth reference. This time, he is describing himself as becoming dehumanized and turning into an immortal as he rises. Like we were warned at the beginning of the canto, his descriptions of his journey to heaven are vague and unclear; Dante says “To soar beyond the human cannot be described / in words” (Lines 70-71). This is a way for Dante the poet not to completely overstep his boundaries as a human and define God’s domain. Instead, he tells the reader that there are new sounds and a sharpness, and he is filled with amazement and lightness as he rises. This all serves to remind readers that as humans, the divine are on a different plane of existence. There are many things that the human mind cannot comprehend, and we must accept that. "
         },
         {
             "title": "THE NATURAL ORDER",
-            "text": "Beatrice’s speech takes up a good half of the canto. The speech can be split into three parts. First, she tells Dante about how humans are naturally drawn to good even though they have different impulses and destinations. However, she says, humans can still sin as a result of free will. It is human sin that then draws us away from God. Beatrice finally uses Dante as proof that humans are meant to be good and close to God because Dante moves upwards as he has been purified. This conflicts with other ideologies at the time and soon after that humans are natural sinners. Dante in this canto argues that humans may stray from the correct path but are not destined/made to do so. "
+            "text": "Beatrice’s speech takes up a good half of the canto. The speech can be split into three parts. First, she tells Dante about how humans are naturally drawn to good even though they have different impulses and destinations: “This instinct carries fire toward the moon, / this is the moving force in mortal hearts“  (Lines 115-116). However, she says, humans can still sin as a result of free will. It is human sin that then draws us away from God “'It is true that as a work will often fail / to correspond to its intended form, its matter / deaf and unresponsive to the craftsman's plan,” (Lines 127-129). Humans are the work that often fails which results in our separation from God and our “unresponsive” nature to the Natural Order.  Beatrice finally uses Dante as proof that humans are meant to be good and close to God because Dante moves upwards as he has been purified. This conflicts with other ideologies at the time and soon after that humans are natural sinners. Dante in this canto argues that humans may stray from the correct path but are not destined/made to do be good. "
+        }
+    ],
+    "sources":[
+        {
+            "text": "Carl Orff, MIT Concert Choir. “O Fortuna.” Free Music Archive, CC BY-NC."
+        },
+        {
+            "text": "“Paradiso I.” Translated by Robert Hollander and Jean Hollander, Princeton University, The Trustees of Princeton University, dante.princeton.edu/. Accessed 16 Mar. 2025. "
         }
     ]
 }

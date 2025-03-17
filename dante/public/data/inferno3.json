@@ -1,17 +1,18 @@
 {
-    "title": "Inferno 3",
+    "title": "Inferno 3",    
+    "music": "/music/inferno3.mp3",
     "summary":[
         {
             "image": "/images/inferno3/scene1.jpg",
-            "text": "An arch with ominous inscriptions greet Dante and Virgil at the entrance of Hell. Inside, they can hear screams and wailing. Dante begins to weep as well."
+            "text": "\"'Here you must banish all distrust, / here must all cowardice be slain. / 'We have come to where I said / you would see the miserable sinners / who have lost the good of the intellect.'\" (Lines 14-18)"
         },
         {
             "image": "/images/inferno3/scene2.jpg",
-            "text": "After entering Hell, they encounter sinners running around chasing a banner. Wasps and stinging flies make their faces stream with blood and, at their feet, are worms. Dante recognizes one of the souls, and knowing the soul’s crime, stops pitying the sinners."
+            "text": "After entering Hell, they encounter sinners running after a banner, punished \"by stinging flies and wasps / that made their faces stream with blood\" (Lines 66-67). Dante recognizes one of the souls as the one \"who, through cowardice, made the great refusal\" (Line 60)."
         },
         {
             "image": "/images/inferno3/scene3.jpg",
-            "text": "At the shore, they see Charon the demon ferrying sinners across the river. Charon refuses to take Dante at first. Virgil tells Dante this is because Charon takes sinners to be punished. Before Dante crosses the river, he faints."
+            "text": "At the shore, they meet Charon the demon ferrying sinners across the river. Charon tells Dante \"By another way, another port, / not here, you'll come to shore and cross\" (Lines 91-92). Virgil assures Charon this is \"willed where will and power are one\" (Line 95). Charon agrees, and Dante faints as they cross."
         }
     ],
     "supplementary":[
@@ -41,14 +42,17 @@
         },
         {
             "title": "MYTH vs. FAITH",
-            "text": "Charon, the ferryman, is a character from Greek mythology who guides souls into the underworld. He did not exist in the Bible, and yet Dante the Poet uses him at the entrance of Hell. He even plays a somewhat similar role where he is ferrying sinners to their punishment in Hell. By integrating pagan characters, Dante the poet is able to connect with those reading the text more. He wrote the book in Florentine rather than Latin to give the less educated in Florence a way to connect with the Bible. In using characters from myths, he is able to ground his christian spiritual journey in common cultural references. "
+            "text": "Charon, the ferryman, is a character from Greek mythology who guides souls into the underworld. He did not exist in the Bible, and yet Dante the Poet uses him at the entrance of Hell. He even plays a somewhat similar role where he is ferrying sinners to their punishment in Hell. The difference, however, is that sinners Charon the Greek myth ferried had a chance at bliss whereas sinners Charon ferries over in Inferno are damned to suffer for eternity. It is also important to note that while Charon is a character from Greek myth, he still obeys God. On lines 95-96, Virgil tells Chiron “​It is so willed where will and power are one, / and ask no more” when he protested Dante coming by his boat and “That stilled the shaggy jowls” (Line 97). His obedience to God reminds us that even though Dante integrates pagan characters into his writing by having them take important roles, they are written to assist God, not to detract from him. By using these pagan characters, Dante the poet is able to ground his christian spiritual journey in common cultural references."
         },
         {
             "title": "DANTE FAINTING",
-            "text": "Dante the pilgrim fainting serves three purposes. First, it reminds readers that he is a living human in need of guidance. He is too mentally weak to fully grasp divine retribution which is overwhelming suffering. As a human, he is also more relatable to the readers as someone who is not numb to the horrors he will experience. Second, it helps us establish character growth. At the start of Hell, the sights and sounds of the sinners suffering is enough to overwhelm him both with horror and pity. By the end of Inferno, we will see that Dante has grown in dealing with what he sees and understanding divine retribution. Third, by fainting, Dante the poet does not have to deal with details like how he got across the river. Just like the whitespace transition between his decision to enter Hell and his actual entry to Hell, there is a whitespace transition in between standing on the shore of the river Acheron and entering the first circle of Hell. "
+            "text": "Dante the pilgrim fainting serves three purposes. First, it reminds readers that he is a living human in need of guidance. An example of this is when he remarks “I could not believe / death had undone so many” (Lines 56-57). He is too mentally weak to fully grasp divine retribution which is overwhelming suffering. As a human, he is also more relatable to the readers as someone who is not numb to the horrors he will experience. Second, it helps us establish character growth. At the start of Hell, the sights and sounds of the sinners suffering is enough to overwhelm him both with horror and pity. By the end of Inferno, we will see that Dante has grown in dealing with what he sees and understanding divine retribution. His character growth is very important because as Dante the pilgrim grows spiritually through asking Virgil questions, readers also learn more about how Dante the poet interprets the Bible and how they can apply that interpretation to their own lives. Third, by fainting, Dante the poet does not have to deal with details like how he got across the river. Just like the whitespace transition between his decision to enter Hell and his actual entry to Hell, there is a whitespace transition in between standing on the shore of the river Acheron and entering the first circle of Hell."
         }
     ],
     "sources":[
+        {
+            "text": "“Inferno III.” Translated by Robert Hollander and Jean Hollander, Princeton University, The Trustees of Princeton University, dante.princeton.edu/. Accessed 16 Mar. 2025. "
+        },
         {
             "text": "The Editors of Encyclopaedia Britannica. ”Charon”. Encyclopedia Britannica, 7 Jan. 2025, https://www.britannica.com/topic/Charon-Greek-mythology. Accessed 10 March 2025."
         },
